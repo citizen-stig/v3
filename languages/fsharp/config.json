@@ -42,6 +42,16 @@
         "uuid": "ef2df8b0-63a8-11ea-bc55-0242ac130003",
         "concepts": ["lists-basic"],
         "prerequisites": ["strings-basic"]
+      },
+      {
+        "slug": "numbers-floating-point",
+        "uuid": "4eb8d86f-7123-473e-9d96-7939e9652608",
+        "concepts": ["numbers-floating-point"],
+        "prerequisites": [
+          "numbers-basic",
+          "type-conversion-numbers",
+          "conditionals-if"
+        ]
       }
     ],
     "practice": []
